@@ -50,8 +50,8 @@ xsuaa:
     xsappname: incident-management
     tenant-mode: dedicated
     oauth2-configuration:
-        redirect-uris:
-            - https://*.c-881e383.kyma.ondemand.com/**
+      redirect-uris:
+        - https://*.c-881e383.kyma.ondemand.com/**
 destination:
   serviceOfferingName: 'destination'
   servicePlanName: 'lite'
